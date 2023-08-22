@@ -1,0 +1,22 @@
+{
+  "name": "react-virtualized-resizable-columns",
+  "version": "1.0.0",
+  "description": "react-virtualized and react-draggable demo",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "faker": "4.1.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-draggable": "3.0.5",
+    "react-scripts": "1.1.4",
+    "react-virtualized": "9.18.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
